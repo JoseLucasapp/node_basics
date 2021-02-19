@@ -1,0 +1,15 @@
+<html>
+    <body>
+        <h1>View</h1>
+        <% for(var i=0; i < arquivo.length; i++){%>
+        <ul>
+            <li><%= arquivo[i].nome %></li>
+        </ul>
+        <%}%>
+        <div>
+            <form action="/form" method="GET">
+                <button>Formulário</button>
+            </form>
+        </div>
+    </body>
+</html>
