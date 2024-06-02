@@ -68,47 +68,44 @@ Como Node.js é baseado em JavaScript, é importante ter um entendimento básico
 
 ## Conteúdo do Repositório
 
-### Api-simples 1 e 2
+**Api-simples 1 e 2**
 O básico de uma api em Node, como criar um servidor e as primeiras rotas.
 
-### chat
+**chat**
 O primeiro contato com sockets, que vão conectar mais de uma pessoa em tempo real.
 
-### Rede-social
+**Rede-social**
 Essa aplicação é um conjunto de uma api com um frontend, mas sem fugir do mundo do Node, e será o primeiro contato com EJS, para a criação de telas para seu servidor de maneira direta.
 
-### mmorpg_got
-Aqui nós iremos criar um mini rpg utilizando os recursos aprendidos nos outros repositórios.
-
-### noticias
+**noticias**
 Api de noticias
 
-### testes
+**testes**
 Aqui será o primeiro contato com testes
 
-### validator
+**validator**
 Aprenda a validar dados em nodeJS
 
-### CRUD
+## Links adicionais
+
+**CRUD**
 <a href="https://github.com/JoseLucasapp/CRUD">Todas as quatro operações básicas de uma API</a>
 
-### Conexão nodeJS/PostgreSQL
+**Conexão nodeJS/PostgreSQL**
 <a href="https://github.com/JoseLucasapp/node_postgresql"> Conexão com banco de dados </a>
 
-### Upload de imagens utilizando NodeJS
+**Upload de imagens utilizando NodeJS**
 <a href="https://github.com/JoseLucasapp/Images_upload_with_nodeJS">Upload de imagens utilizando node</a>
 
 
-## Um pouco mais avançado
+### Um pouco mais avançado
 
-### GraphQL
+**GraphQL**
 <a href="https://github.com/JoseLucasapp/Api_graphql_node">Api graphQL simples, sem conexão com banco de dados</a>
 <a href="https://github.com/JoseLucasapp/Api_graphql_node_mongodb">Api graphQL com conexão com banco de dados</a>
 
-### TokenJWT
-
+**TokenJWT**
 <a href="https://github.com/JoseLucasapp/jwt_authorization">Utilizando token para login de usuários</a>
-
 
 Contribuições fazem com que a comunidade open source seja um lugar incrível para aprender, inspirar e criar. Todas contribuições
 são **extremamente apreciadas**
